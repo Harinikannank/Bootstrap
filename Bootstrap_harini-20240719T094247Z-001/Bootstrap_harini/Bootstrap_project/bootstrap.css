@@ -1,0 +1,126 @@
+.bg-img-1{
+    background-image: url('1.jpg');
+}
+.bg-img-2{
+    background-image: url('2.jpg');
+}
+.bg-img-3{
+    background-image: url('3.jpg');
+}
+.bg-img-4{
+    background-image: url('4.jpg');
+}
+.bg-img-5{
+    background-image: url('5.jpg');
+}
+.bg-img-6{
+    background-image: url('6.jpg');
+}
+.bg-img-7{
+    background-image: url('7.jpg');
+}
+.bg-img-8{
+    background-image: url('8.jpg');
+}
+.bg-img-9{
+    background-image: url('9.jpg');
+}
+.carousel-image {
+    background-size: cover; /* This will cover the entire container with the background image */
+    background-position: center; /* This will center the background image */
+    height: 800px; /* Adjust the height as per your requirement */
+}
+.carousel-caption h5,p{
+color:black;
+}
+.lef{
+    background-color: orangered;
+}
+.rig{
+    color:white;
+}
+.sen{
+    color: orangered;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.sep{
+    align-items: flex-end;   
+}
+.for{
+    width:100%;
+    height:auto;
+    padding-top:20px;
+}
+.com{
+    width: 350px;
+    height:350px;
+    background-color: white;
+    color:black;
+    font-size:15px;
+    text-align: center;
+    border-radius: 20px;
+    margin:10px;
+}
+* .fif p{
+line-height: 50px;
+}
+.fif h5{
+    color:orangered;
+}
+.mmm h5{
+    color:black;
+}
+.eig h4{
+    color:orangered;
+}
+.eig{
+    border-style:inset;
+    padding:5px;
+}
+* .image{
+width: 200px;
+height:200px;
+}
+.select{
+    background-color:orangered;
+    width: 200px;  
+    height: 50px; 
+    border-radius:10px;
+}
+.sss{
+    padding-top:50px;
+    padding-right:70px;
+}
+.ppp{
+    padding-right:50px; 
+    padding-top: 70px;
+}
+.jjj{
+    padding-right:60px; 
+    padding-top:10px;
+}
+.kkk{
+    padding-bottom:60px;
+    margin-right:30px;
+    justify-items: center;
+    height: 100%;
+}
+.nnn{
+    padding-top:10px;
+}
+.ggg{
+    width:100%;
+    height:70px;
+}
+.nine{
+    height:70px;
+    align-items:center;
+} 
